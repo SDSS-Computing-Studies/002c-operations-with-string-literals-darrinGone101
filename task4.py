@@ -10,8 +10,8 @@ This little piggy went to market.
 subject = "This little piggy "
 verb = "went "
 preposition = "to "
-pronoun = "market "
+pronoun = "market"
 
-result = subject + verb + preposition + pronoun + "."
+result = subject + verb + preposition + pronoun +"."
 
 print(result)
