@@ -1,3 +1,3 @@
-x = str("5 ")
+
 y = str("donut")
-print (x + y)
+print (y*5)
