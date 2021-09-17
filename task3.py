@@ -1,3 +1,3 @@
-x = ("5 ")
-y = ("donut")
+x = str("5 ")
+y = str("donut")
 print (x + y)
